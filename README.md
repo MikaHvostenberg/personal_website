@@ -1,2 +1,2 @@
 # personal_website
-the personal website of the ownere
+the personal website of the owner
